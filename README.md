@@ -3,7 +3,7 @@
 | ***Question*** | ***Answer*** |
 | ----------- | ----------- |
 | **My name is:** | Emily Wei |
-| **What do I look like?** |<img src="assignment 1.jpg" alt="me" height="150" /> |
+| **What do I look like?** |<img src="assignment 1.jpg" alt="emily" height="150" /> |
 | **My major:** | I am majoring in **Neuroscience** at Dalhousie🧠! I'm also doing a minor in *Business*👔 and a certificate in *Neuroinnovative Technology*💻.|
 | **My program year:** | I'm in my **3rd year** of my Bachelor of Science🧪! |
 | **Why I enrolled in NESC3505?** | I'm doing an independent research project with Dr. Newman this year and he thought this course would be really helpful in helping to analyze data in the lab! I also really enjoy coding and knew some *Java*☕ so thought it would be fun to learn *Python* too🐍. |
